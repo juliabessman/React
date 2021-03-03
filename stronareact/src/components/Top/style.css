@@ -1,0 +1,81 @@
+
+  .top-prod{
+    font-family: 'Spartan', sans-serif;
+  font-size: 1cm ;
+  color: rgb(170, 134, 79);
+  text-align: left;
+  font-style: italic;
+  font-weight: lighter;
+  margin-top: 2cm;
+  margin-left:1cm ;
+  
+  }
+  
+  .about-prod {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-content: flex-end;
+  
+  
+  }
+  .tp1{
+    order:1;
+    font-family: 'Spartan', sans-serif;
+    color: black;
+    margin-left: 1cm;
+    margin-top: 1cm;
+   
+  
+  }
+  .tp2{
+    order:2;
+    font-family: 'Spartan', sans-serif;
+    color:black;
+    margin-left: 1cm;
+  
+  }
+  
+  
+  .tp3{
+    order:3;
+    font-family: 'Spartan', sans-serif;
+    color: black;
+    margin-left: 1cm;
+   
+  
+  }
+  
+  .tp4{
+    order:4;
+    font-family: 'Spartan', sans-serif;
+    color: black;
+    margin-left: 1cm;
+    
+  
+  }
+  .des1{
+    color:rgb(170, 134, 79);
+    font-family: 'Spartan', sans-serif;
+    margin-left: 1cm;
+  
+  }
+  .des2{
+  color:rgb(170, 134, 79);
+  font-family: 'Spartan', sans-serif;
+  margin-left: 1cm;
+  }
+  .des3{
+    color: rgb(170, 134, 79);
+    
+    font-family: 'Spartan', sans-serif;
+    margin-left: 1cm;
+  
+  }
+  .des4{
+  color: rgb(170, 134, 79);
+  font-family: 'Spartan', sans-serif;
+  margin-left: 1cm;
+  }
+  
+  

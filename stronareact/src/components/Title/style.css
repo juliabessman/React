@@ -1,0 +1,27 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+  
+.header {
+    font-family: 'Spartan', sans-serif;
+    font-size: 2cm ;
+    color: rgb(170, 134, 79);
+    text-align: center;
+    font-style: italic;
+    font-weight: lighter;
+    margin-top: 2cm;
+
+}
+
+.text {
+    font-family: 'Caveat', cursive;
+    font-size: 0.8cm ;
+    color: rgb(192, 175, 149);
+    text-align: center;
+    font-weight: lighter;
+    
+}
+

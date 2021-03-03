@@ -1,0 +1,57 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+
+  .read-more-link{
+    font-family: 'Spartan', sans-serif;
+    font-size: 19px ;
+    color: rgb(170, 134, 79);
+    text-align: left;
+    font-style: italic;
+    font-weight: lighter;
+    margin-top: 3cm;
+    margin-left:1cm ; 
+  }
+   
+  .App{
+    font-family: 'Spartan', sans-serif;
+    font-size: 1px ;
+    color: rgb(170, 134, 79);
+    text-align: left;
+    font-style: italic;
+    font-weight: lighter;
+    margin-top: 3cm;
+    margin-left:1cm ;
+  }
+
+  
+  .about{
+  
+  font-family: 'Spartan', sans-serif;
+  font-size: 1cm ;
+  color: rgb(170, 134, 79);
+  text-align: left;
+  font-style: italic;
+  font-weight: lighter;
+
+  margin-left:1cm ;
+  }
+  
+
+  .opis {
+  
+  column-count: 2;
+  column-gap: 20px;
+  column-rule:1px solid rgb(170, 134, 79);
+  text-align: justify;
+  margin-left: 1cm ;
+  margin-right: 1cm ;
+  font-family: 'Spartan', sans-serif;
+  font-size: small;
+  
+  }
+ 
+  
+  

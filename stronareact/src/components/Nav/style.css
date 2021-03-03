@@ -1,0 +1,40 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+
+
+  body {
+      background-color: ivory;
+  }
+   .nav {
+      background-color: rgb(228, 216, 198);
+      width: 1440px;
+      margin-left: -8px;
+      position: absolute;
+      margin-top: 2cm;
+      margin-bottom: 0mm;
+    }
+ 
+  
+    .nav a {
+      float: left;
+      color:  rgb(153, 115, 58);
+      text-align: center;
+      padding: 14px 16px;
+      font-size: 17px;
+      font-family: 'Spartan', sans-serif;
+      text-decoration: none ;
+    
+      
+    }
+    
+    .nav a:hover {
+      background-color: rgb(192, 175, 149);
+      color: rgb(143, 97, 97);
+    }
+    
+   
+  
+  
